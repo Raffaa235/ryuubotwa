@@ -14,9 +14,9 @@ TELAH MEMBUKA MENU DONASI
 
 KALIAN BISA DONASI MENGGUNAKAN
    
-🛡 *PULSA*: 081271699856
+🛡 *PULSA*: 082230196826
 🛡 *OVO*: 081271699856
-🛡 *DANA* : 081271699866
+🛡 *DANA* : 082230196826
 🛡 *GOPAY* : 081271699856
 
 📺*IKLAN* *YOUTUBE REUZ*
@@ -24,7 +24,7 @@ KALIAN BISA DONASI MENGGUNAKAN
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 FOLLOW INSTAGRAM SAYA
-${instagram}
+${raffaaa346}
 
 👾TELEGRAM : ${telegram}
 
