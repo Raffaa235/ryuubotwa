@@ -1,5 +1,5 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `⚜*${BotName}*⚜
+	return `🌸*${RYUU BOT}*🌸
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 APA KABAR? SEMOGA BAIK-BAIK SAJA!
@@ -8,19 +8,19 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵TOLONG BANTU DONASI AGAR BOT INI BISA TERUS BERJALAN💵
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
-📅*${tampilTanggal}* ⚡️
-⏰*${tampilWaktu}* ⚡️
+📅*${tampilTanggal}* 🕐
+⏰*${tampilWaktu}* 🕐
 (Waktu Server)
 
-🗒KUMPULAN COMMAND ${BotName}:
+🗒KUMPULAN COMMAND ${RYUU BOT}:
  
 🐼*FUN*🐼
 
 🐼 _*!pantun*_
-_${BotName}_🍄akan mengirimkanmu pantun secara random
+_${RYUU BOT}_🍄akan mengirimkanmu pantun secara random
 
 🐼 _*!animepict*_
-_${BotName}_🍄akan mengirimkanmu gambar anime secara random
+_${RYUU BOT}_🍄akan mengirimkanmu gambar anime secara random
 
 🐼 _*!sticker*_
 _${BotName}_🍄akan membuatkan sticker dari gambar yang kamu kirimkan
@@ -125,7 +125,7 @@ ${instagram}
 
 • TELEGRAM : ${telegram}
 • Youtube : R E U Z
-• WA : 081271699856
+• WA : 082230196826
 • Pasang Iklan? Chat Whatsapp.
 
 📺 *IKLAN* : *YOUTUBE REUZ*
