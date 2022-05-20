@@ -1,5 +1,5 @@
 exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `⚜ ${BotName} ⚜
+	return `🌸 ${RYUU BOT} 🌸
   
 HALO *${id.split("@s.whatsapp.net")[0]}*
 "
@@ -10,11 +10,11 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
-🔱 *INSTAGRAM*: ${instagram}
+🔱 *AUTHOR*: RAFFA 
+🔱 *GITHUB*: https://github.com/raffa235/ryuubotwa
+🔱 *INSTAGRAM*: ${raffaaa346}
 🔱 *YOUTUBE*: ${youtube}
-🔱 *TELEGRAM* : ${telegram}
+🔱 *TELEGRAM* : ${raffaa}
 🔱 *WHATSAPP* : 081271699856
 
 🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
